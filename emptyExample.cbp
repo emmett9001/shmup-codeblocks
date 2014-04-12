@@ -33,13 +33,13 @@
 				</Compiler>
 			</Target>
 		</Build>
-		<Unit filename="config.make">
-			<Option virtualFolder="build config" />
-		</Unit>
 		<Unit filename="src/PatternEditor.cpp" />
 		<Unit filename="src/main.cpp">
 			<Option virtualFolder="src/" />
 		</Unit>
+		<Unit filename="src/objects/BoardPartition.cpp" />
+		<Unit filename="src/objects/GameObject.h" />
+		<Unit filename="src/objects/PatternEditor.cpp" />
 		<Unit filename="src/objects/PatternEditor.h" />
 		<Unit filename="src/ofApp.cpp">
 			<Option virtualFolder="src/" />
@@ -47,6 +47,7 @@
 		<Unit filename="src/ofApp.h">
 			<Option virtualFolder="src/" />
 		</Unit>
+		<Unit filename="src/testApp.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
