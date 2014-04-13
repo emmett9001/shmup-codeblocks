@@ -47,6 +47,7 @@
 		<Unit filename="src/ofApp.h">
 			<Option virtualFolder="src/" />
 		</Unit>
+		<Unit filename="src/patterns/BulletPattern.cpp" />
 		<Unit filename="src/testApp.cpp" />
 		<Extensions>
 			<code_completion />
