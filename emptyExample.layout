@@ -5,7 +5,7 @@
 		<Cursor position="0" topLine="0" />
 	</File>
 	<File name="src/movers/Mover.h" open="1" top="0" tabpos="9">
-		<Cursor position="230" topLine="0" />
+		<Cursor position="86" topLine="0" />
 	</File>
 	<File name="src/objects/BoardPartition.cpp" open="1" top="0" tabpos="5">
 		<Cursor position="0" topLine="0" />
@@ -20,12 +20,12 @@
 		<Cursor position="0" topLine="0" />
 	</File>
 	<File name="src/patterns/BulletPattern.cpp" open="1" top="0" tabpos="8">
-		<Cursor position="141" topLine="21" />
+		<Cursor position="1427" topLine="18" />
 	</File>
 	<File name="src/patterns/BulletPattern.h" open="1" top="0" tabpos="7">
-		<Cursor position="1046" topLine="8" />
+		<Cursor position="1046" topLine="7" />
 	</File>
 	<File name="src/testApp.cpp" open="1" top="0" tabpos="3">
-		<Cursor position="1442" topLine="26" />
+		<Cursor position="1337" topLine="43" />
 	</File>
 </CodeBlocks_layout_file>
