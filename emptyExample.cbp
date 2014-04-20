@@ -33,10 +33,14 @@
 				</Compiler>
 			</Target>
 		</Build>
+		<Unit filename="include/StraightLineMover.h" />
+		<Unit filename="src/Mover.cpp" />
 		<Unit filename="src/PatternEditor.cpp" />
+		<Unit filename="src/StraightLineMover.cpp" />
 		<Unit filename="src/main.cpp">
 			<Option virtualFolder="src/" />
 		</Unit>
+		<Unit filename="src/movers/Mover.h" />
 		<Unit filename="src/objects/BoardPartition.cpp" />
 		<Unit filename="src/objects/GameObject.h" />
 		<Unit filename="src/objects/PatternEditor.cpp" />
