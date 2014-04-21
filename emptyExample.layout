@@ -13,8 +13,8 @@
 	<File name="src/objects/GameObject.h" open="1" top="0" tabpos="6">
 		<Cursor position="215" topLine="12" />
 	</File>
-	<File name="src/objects/PatternEditor.cpp" open="1" top="1" tabpos="2">
-		<Cursor position="614" topLine="0" />
+	<File name="src/objects/PatternEditor.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="7817" topLine="201" />
 	</File>
 	<File name="src/objects/PatternEditor.h" open="1" top="0" tabpos="1">
 		<Cursor position="753" topLine="0" />
@@ -26,6 +26,6 @@
 		<Cursor position="1041" topLine="7" />
 	</File>
 	<File name="src/testApp.cpp" open="1" top="0" tabpos="3">
-		<Cursor position="1337" topLine="43" />
+		<Cursor position="3533" topLine="113" />
 	</File>
 </CodeBlocks_layout_file>
