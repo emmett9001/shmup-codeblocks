@@ -45,6 +45,8 @@
 		<Unit filename="src/objects/GameObject.h" />
 		<Unit filename="src/objects/PatternEditor.cpp" />
 		<Unit filename="src/objects/PatternEditor.h" />
+		<Unit filename="src/objects/Stage.cpp" />
+		<Unit filename="src/objects/Stage.h" />
 		<Unit filename="src/ofApp.cpp">
 			<Option virtualFolder="src/" />
 		</Unit>
